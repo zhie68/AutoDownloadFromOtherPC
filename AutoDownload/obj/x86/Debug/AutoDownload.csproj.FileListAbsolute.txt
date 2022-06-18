@@ -1,0 +1,9 @@
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\bin\Debug\AutoDownload.pdb
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\AutoDownload.Form1.resources
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\AutoDownload.Properties.Resources.resources
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\AutoDownload.exe
+c:\users\hmi97\documents\visual studio 2010\Projects\AutoDownload\AutoDownload\obj\x86\Debug\AutoDownload.pdb

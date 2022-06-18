@@ -80,28 +80,28 @@ namespace AutoDownload
                 switch (selected)
                 {
                     case "CB":
-                        iptarget = @"\\172.21.86.150\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "CS":
-                        iptarget = @"\\172.21.86.47\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "CS SCH":
-                        iptarget = @"\\172.21.86.48\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "DSS":
-                        iptarget = @"\\172.21.86.50\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "DS":
-                        iptarget = @"\\172.21.86.44\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "MRK":
-                        iptarget = @"\\172.21.86.56\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "INS":
-                        iptarget = @"\\172.21.86.52\d$\PICT\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                     case "CL":
-                        iptarget = @"\\172.21.86.58\d$\System32\Windows\";
+                        iptarget = @"\\yourip\drive$\destination\";
                         break;
                 }
                 string dest = @"D:\" + fname + @"\";
@@ -186,7 +186,7 @@ namespace AutoDownload
             }
             else
             {
-                string local = @"D:\" + fname + @"\";
+                string local = @"yourdrive:\" + fname + @"\";
                 Process.Start("explorer.exe", local);
             }
             //string c = @"C:\test\";
